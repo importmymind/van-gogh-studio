@@ -61,8 +61,7 @@ This project is built as a **Single File Application** for maximum portability. 
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/Fatmanurkntr/van-gogh-studio.git](https://github.com/importmymind/van-gogh-studio.git)
-    ```
+    git clone [https://github.com/importmymind/van-gogh-studio.git]
 
 2.  **Open the file**
     * It is highly recommended to use a local server (like VS Code "Live Server") to avoid browser CORS restrictions with images.
