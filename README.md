@@ -55,13 +55,13 @@
 This project is built as a **Single File Application** for maximum portability. No heavy `node_modules` or build steps required.
 
 ### 🌐 Live Demo
-[**Click here to view the project live**](https://fatmanurkntr.github.io/van-gogh-studio/)
+[**Click here to view the project live**](https://importmymind.github.io/van-gogh-studio/)
 
 ### 💻 Run Locally
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/Fatmanurkntr/van-gogh-studio.git](https://github.com/Fatmanurkntr/van-gogh-studio.git)
+    git clone [https://github.com/Fatmanurkntr/van-gogh-studio.git](https://github.com/importmymind/van-gogh-studio.git)
     ```
 
 2.  **Open the file**
@@ -110,5 +110,5 @@ The application automatically detects touch devices:
 ---
 
 <p align="center">
-  Created with ❤️ by <a href="https://github.com/Fatmanurkntr">importmymind</a>
+  Created with ❤️ by <a href="https://github.com/importmymind">importmymind</a>
 </p>
